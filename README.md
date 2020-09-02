@@ -1,3 +1,3 @@
 # Welcome to my repository
 
-Authors: Nate Wells
+Authors: Jonathan Li
